@@ -2415,6 +2415,10 @@ input, select, textarea {
 				width: 2.5em;
 			}
 
+      ul.feature-icons li:last-child {
+        background: #D50032;
+      }
+
 /* Icons */
 
 	ul.icons {
