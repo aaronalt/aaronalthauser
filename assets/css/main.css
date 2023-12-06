@@ -196,7 +196,7 @@ input, select, textarea {
 	blockquote {
 		border-left: solid 8px #b1eaed;
 		font-style: italic;
-		margin: 0 0 2.25em 0;
+		margin: 0 0 1em 0;
 		padding: 0.5em 0 0.5em 2em;
 	}
 
